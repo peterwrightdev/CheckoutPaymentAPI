@@ -45,9 +45,13 @@ A PaymentReport is then created based on the Payment's details, the time of the 
 }
 
 id is a unique identified for the record created, currently an auto-incrementing integer. An improvement would be to use a GUID.
+
 wasSuccesful indicates whether the Bank accepted the payment. In this case, the Bank rejected the Payment as the Amount was over 100.
+
 paymentDateTime indicates the DateTime of when the request was processed in UTC.
+
 maskedCardNumber is the CardNumber supplied in the request, with only the first 6 and last 4 digits kept.
+
 The remaining fields are all directly populated from the Payment record. A note on this is that the regulations on storing and sending card details have not been fully implemented at this time.
 
 ### GET request action

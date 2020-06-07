@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj": {}
+    "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj": {
+    "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj",
+        "projectUniqueName": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj",
         "projectName": "CheckoutPaymentGatewayTests",
-        "projectPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj",
+        "projectPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGatewayTests\\CheckoutPaymentGatewayTests.csproj",
         "packagesPath": "C:\\Users\\Peter.Wright\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGatewayTests\\obj\\",
+        "outputPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGatewayTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj": {
-                "projectPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj"
+              "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj": {
+                "projectPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj"
               }
             }
           }
@@ -76,9 +76,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -87,14 +84,14 @@
         }
       }
     },
-    "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj": {
+    "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
+        "projectUniqueName": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
         "projectName": "CheckoutPaymentGateway",
-        "projectPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
+        "projectPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
         "packagesPath": "C:\\Users\\Peter.Wright\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\obj\\",
+        "outputPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

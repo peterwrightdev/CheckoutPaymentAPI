@@ -8613,11 +8613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
+      "projectUniqueName": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
       "projectName": "CheckoutPaymentGateway",
-      "projectPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
+      "projectPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\CheckoutPaymentGateway.csproj",
       "packagesPath": "C:\\Users\\Peter.Wright\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Projects\\CheckoutPaymentGateway\\CheckoutPaymentGateway\\obj\\",
+      "outputPath": "c:\\Dev\\Projects\\CheckoutPaymentAPI\\CheckoutPaymentGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
